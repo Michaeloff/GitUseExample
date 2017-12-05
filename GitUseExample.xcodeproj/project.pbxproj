@@ -12,6 +12,7 @@
 		50FB38E51FD5F3820089B8ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50FB38E31FD5F3820089B8ED /* Main.storyboard */; };
 		50FB38E71FD5F3820089B8ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50FB38E61FD5F3820089B8ED /* Assets.xcassets */; };
 		50FB38EA1FD5F3820089B8ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50FB38E81FD5F3820089B8ED /* LaunchScreen.storyboard */; };
+		50FB38F21FD639390089B8ED /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50FB38F11FD639390089B8ED /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		50FB38E61FD5F3820089B8ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50FB38E91FD5F3820089B8ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		50FB38EB1FD5F3820089B8ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		50FB38F11FD639390089B8ED /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				50FB38DF1FD5F3820089B8ED /* AppDelegate.swift */,
 				50FB38E11FD5F3820089B8ED /* ViewController.swift */,
+				50FB38F11FD639390089B8ED /* MapForItinerary.swift */,
 				50FB38E31FD5F3820089B8ED /* Main.storyboard */,
 				50FB38E61FD5F3820089B8ED /* Assets.xcassets */,
 				50FB38E81FD5F3820089B8ED /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				50FB38E21FD5F3820089B8ED /* ViewController.swift in Sources */,
 				50FB38E01FD5F3820089B8ED /* AppDelegate.swift in Sources */,
+				50FB38F21FD639390089B8ED /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
